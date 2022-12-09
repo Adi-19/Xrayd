@@ -1,6 +1,8 @@
-# AI for Healthcare Hackathon
+# Xrayd
 
-This is the final submission for AI for Healthcare by Derbi Foundation from the Artificial Mind.
+• Xrayd is a web platform that classifies 21 different lung diseases using Chest Radiographs.  
+• Trained them on the [NIH Chest X-ray dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data) and [Pneumonia Chest x-ray dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) resulting in 94.2% validation accuracy.  
+• AI explainability is added using Transfer learning with Attention
 
 ## Installation
 
@@ -15,11 +17,6 @@ pip install -r requirements.txt
 ```python
 Run app.py
 ```
-## Screenshots
-|    |    |
-| ---| ---|
-|![img.png](img.png)| ![img_1.png](img_1.png) |
-|![img_2.png](img_2.png)| ![img_3.png](img_3.png) |
    
 ## Team Members
 
